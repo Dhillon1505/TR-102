@@ -98,12 +98,12 @@ export default function Home() {
               
               <h1 className="text-5xl font-bold text-white mb-6 tracking-tight animate-pulse">
                 <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 bg-clip-text text-transparent">
-                  Cybersecurity Training Report
+                   Training Report
                 </span>
               </h1>
               <div className="w-32 h-2 bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 mx-auto mb-6 rounded-full animate-pulse"></div>
               <p className="text-gray-200 text-xl max-w-2xl mx-auto leading-relaxed">
-                🚀 Comprehensive tracking of daily progress, certifications, projects, and skill development in cybersecurity ⚡
+                🚀 Comprehensive tracking of daily progress, certifications, projects, and skill development  ⚡
               </p>
               
               {/* Animated stats display */}
@@ -138,7 +138,7 @@ export default function Home() {
                 <span className="text-2xl animate-bounce">⚔️</span>
               </div>
               <p className="text-sm text-gray-400 animate-pulse mb-2">
-                Level up your cybersecurity skills! 💫 Keep learning, keep growing! 🌟
+                Level up your  skills! 💫 Keep learning, keep growing! 🌟
               </p>
               <p className="text-sm text-gray-300 font-medium">
                 ARPAN KAUR DHILLON (2302480)
